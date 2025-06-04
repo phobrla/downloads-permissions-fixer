@@ -1,0 +1,16 @@
+
+```gitignore name=.gitignore
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# macOS folders
+.Spotlight-V100
+.Trashes
+
+# Script-generated files
+ensure_and_fix_downloads.log
